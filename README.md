@@ -1,5 +1,8 @@
-## Hi there 👋
+# Aubrey Chan
 
+Statistics student at Brigham Young University  
+Experience in R, Bash, and Git  
+Interested in data analysis and statistical computing
 <!--
 **aubschan/aubschan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
