@@ -1,4 +1,4 @@
-# Aubrey Chan
+# Aubrey Hamilton
 
 Statistics student at Brigham Young University  
 Experience in R, Bash, and Git  
